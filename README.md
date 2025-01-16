@@ -5,7 +5,9 @@ This data science project utilises "International football results from 1872 to 
 goalscorers.csv
 results.csv
 shootouts.csv
+
 2.Place these three datasets in your desired directory.
+
 3.Run these scripts in sequence:
 1. cleaning&PreProcessing.R file 
 2. TimeSeriesAnalysis.R file 
